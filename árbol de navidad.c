@@ -1,3 +1,5 @@
+/*Este programa imprime un árbol de navidad*/
+
 #include <stdio.h>
 
 int main() {
